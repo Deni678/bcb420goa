@@ -119,7 +119,8 @@ exampleGeneSet <- c("AMBRA1", "ATG14", "ATP2A1", "ATP2A2", "ATP2A3", "BECN1", "B
 ```
 
 ## 8. Statistics
-
+Number of records in GOA human: 475641. Unique genes: 19776.
+Number of annotations with ontologies: 475641.
 ## 9. Sources
 Example and template for use of rpt package was taken from 
 [rpt package](https://github.com/hyginn/rpt). <br>
