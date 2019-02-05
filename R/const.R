@@ -1,4 +1,7 @@
-
+#Sources:
+# http://geneontology.org/page/ontology-documentation
+# http://geneontology.org/page/go-annotations
+#
 # GOA humman metadata (gaf default file name)
 human.gaf.filename <- "goa_human.gaf.gz"
 
