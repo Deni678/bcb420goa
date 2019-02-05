@@ -2,8 +2,6 @@
 This package describes the workflow for downloading gene annotation data from Gene Ontology Annotation (http://www.geneontology.org) and how to annotate an example gene set and shows how to compute some database statistics [Ashburn, 2000] .
 
 The package passes all checks without errors or warnings.
-The structure of the package is as follows:
-
 
 # 2. About Gene Ontology Annotation (GOA):
 ###   2.1  What is it?
